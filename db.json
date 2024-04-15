@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "no": "1",
+      "name": "nikita sarode",
+      "disease": "cold",
+      "city": "karanja",
+      "id": 1
+    }
+  ]
+}
